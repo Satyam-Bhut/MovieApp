@@ -1,3 +1,3 @@
 # MovieApp
 
-Go and Find popular movies to binge watch.
+Go and Find popular movies to binge-watch.
